@@ -12,9 +12,12 @@ export default {
         sans: ["var(--font-inter)", "sans-serif"], // Use Inter globally
       },
       fontSize: {
-        h1: "2.25rem", // Example: 36px
-        h2: "1.875rem", // 30px
-        h3: "1.5rem", // 24px
+        h1: "4rem", // 40px
+        h2: "2rem", // 32px
+        h3: "1.75rem", // 28px
+        h4: "1.5rem", // 24px
+        h5: "1.25rem", // 20px
+        h6: "1.125rem", // 18px
         body: "1rem", // 16px
         small: "0.875rem", // 14px
       },
